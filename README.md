@@ -7,7 +7,7 @@
 ----------------------------------------------
 
 
-- 🌱 I continue to improve my skills
+- 🌱 I continue to improve my data handling skills
 
 - 💬 Ask me about **Data Analysis**
 
