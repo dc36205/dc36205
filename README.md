@@ -7,7 +7,7 @@
 ----------------------------------------------
 
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I continue to improve my skills
 
 - 💬 Ask me about **Data Analysis**
 
